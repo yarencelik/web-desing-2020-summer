@@ -1,0 +1,45 @@
+<html>
+<form action="action.php">
+    <fieldset>
+        <legend>Your details</legend>
+        <label>Name:
+            <br>
+            <input type="text" name="Name"/><br>
+        </label>
+        <label>E-mail
+            <br>
+            <input type="text" name="email"/><br>
+        </label>
+
+
+    </fieldset>
+
+    <fieldset>
+        <legend>Your review</legend>
+        <p>How did you hear about us
+            <select name="referrer" id="hear-about">
+            <option value="google">Google</option>
+            <option value="friend">Friend</option>
+            <option value="advert">Advert</option>
+            <option value="other">Other</option>
+        </select>
+        </p>
+        <p>Would you visit again?</p>
+
+        <input type="radio" name="visit">
+        <label for="yes">Yes</label><br>
+        <input type="radio" name="visit">
+        <label for="no">No</label><br>
+        <input type="radio" name="visit">
+        <label for="maybe">Maybe</label>
+        <br><br>
+        <label for="comments">Comments:</label><br>
+        <textarea cols="40" rows="10"></textarea>
+        <br><input type="checkbox">
+        <label>Sign me for email updates</label>
+        <br><br>
+        <button type="button">Submit review</button>
+    </fieldset>
+</form>
+
+</html>

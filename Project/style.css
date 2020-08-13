@@ -1,0 +1,34 @@
+html{
+    background-color: #02040D;
+    color: white;
+    display: grid;
+
+}
+.categories{
+    float:left;
+    width: 20%;
+     /* display: grid;  */
+
+}
+.countdown{
+    display: grid;
+
+}
+.announcements{
+
+    float: left;
+    width: 60%;    
+    display: grid;
+
+}
+.sponsors{
+    width: 20%;    
+    display: grid;
+    float: left
+
+}
+div:hover{
+}
+.copyright{
+    clear: both;
+}
