@@ -1,108 +1,102 @@
-[{<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-</head>
-<body>
-    <p style="margin: 10px;">5846 Sayılı Fikir ve Sanat Eserleri Kanunu Gereği Yasal Uyarı;</p>
-<p style="margin: 10px;">Bu internet sitesini ziyaret etmek ve kullanmak aşağıda yazılı t&uuml;m koşulların kabul edildiği anlamına gelir.</p>
-<p style="margin: 10px;">Yıldız (Robotics Contest) Robocon etkinliği Yıldız Teknik &Uuml;niversitesi Robotik ve Otomasyon Kul&uuml;b&uuml; tarafından d&uuml;zenlenmektedir. Yıldız Robocon etkinliğinin ve etkinlik resm&icirc; internet sitesi www.yildizrobocon.org&#039;un t&uuml;m hakları saklıdır.</p>
-<p style="margin: 10px;">İnternet sitesinde yer alan fotoğraf, resim, &ccedil;izim, kural, duyuru, yarışma sonucu gibi her t&uuml;rl&uuml; i&ccedil;eriğin telif hakları www.yildizrobocon.org ve Yıldız Robocon etkinliği d&uuml;zenleyicisi Yıldız Teknik &Uuml;niversitesi Robotik ve Otomasyon Kul&uuml;b&uuml;&#039;ne aittir. www.yildizrobocon.org internet sitesinde yer alan t&uuml;m yazılı, g&ouml;rsel materyallerin telif hakları 5846 sayılı Fikir ve Sanat Eserleri Kanunu tarafından korunmaktadır. Yıldız Teknik &Uuml;niversitesi Robotik ve Otomasyon Kul&uuml;b&uuml; Y&ouml;netim Kurulu&#039;ndan yazılı izin alınmadan www.yildizrobocon.org internet sitesinde yer alan hi&ccedil;bir yazılı, g&ouml;rsel materyalin kaynak g&ouml;sterilerek dahi tamamı veya bir kısmı kopyalanamaz, başka ortamda paylaşılamaz, yayınlanamaz.</p>
-<p style="margin: 10px;">Yıldız Teknik &Uuml;niversitesi Robotik ve Otomasyon Kul&uuml;b&uuml; bu kuralların ihlalinden doğacak haklarını yasal yollardan arama hakkını saklı tutar.</p>
-</div>
-<h3>Yarışmanın Amacı</h3>
-<p>Bu kategoride yarışmacılar veya yarışmacı grupları &ouml;zel olarak tasarlanan Yıldız Savaşları Arenası i&ccedil;erisinde rakip robotu işlevsiz hale getirmeye &ccedil;alışacaklardır. Bunu ger&ccedil;ekleştirip arenadan sağ &ccedil;ıkan robot karşılaşmanın galibi sayılır.</p>
-<h3>Yarışma &Ouml;ncesi</h3>
-<p>Yarışma &ouml;ncesinde, mutlaka "<a href="/yarisma/genel-kurallar/">Yıldız Robocon Genel Kuralları</a>" okunmuş olunmalıdır. Kurallar itibariyle alınması gereken g&uuml;venlik tedbirleri yarışmacı sorumluluğu altındadır. Kategori ile ilgili merak edilenler i&ccedil;in&nbsp;&nbsp;eposta adresi &uuml;zerinden bizimle iletişime ge&ccedil;ebilirsiniz.</p>
-<h3>Yarışma Esnasında</h3>
-<p>Karşılaşmalar boyunca hi&ccedil;bir rakip, savaş robotlarının kumanda/kontrol mekanizmalarını ortak kullanamazlar. Karşılaşmaların ardından yarışmacı ekiplerin robotlarının y&uuml;r&uuml;yen ve saldırı mekanizmalarında onarmanın haricinde herhangi bir par&ccedil;a değişimi yapmaları (saldırı mekanizması, hareket mekanizması, g&ouml;vdedeki değişimler gibi) s&ouml;z konusu olamaz. Elektronik aksamdaki m&uuml;dahaleler i&ccedil;in mutlaka hakemlere bilgi sunulmalıdır.</p>
-<p>"Yıldız Robocon Genel Kuralları"nda belirtilmiş olan "G&uuml;venlik Standartları"na uymak ve bir g&ouml;revlinin nezareti olmak kaydıyla, g&uuml;venli bir alanda ekipler robotlarını test edebilirler. Bu durum dikkate alınmadığı takdirde sorumluluk ilgili yarışmacı/yarışmacı ekibe aittir.</p>
-<p>Yarışma g&uuml;nlerinde, arena dışında robotlar taşınırken dikkat edilmeli ve acele edilmemelidir. Yarışmacı/yarışmacı ekipleri, ziyaret&ccedil;ilerimizin g&uuml;venliğini de tehlikeye atmamalıdır.&nbsp;<br />Karşılaşma başlarken yarışmacı kişi, kullanıcı kişi, arena i&ccedil;erisine yerleştirilmiş olan robotunun aktivasyonunu ger&ccedil;ekleştirdikten sonra arenadan &ccedil;ıkar ve ilgili k&ouml;şedeki kapı hakemler tarafından kilitlenir.</p>
-<h3>Hakemler Hakkında</h3>
-<p>Yıldız Savaşları Kategorisi hakemleri karşılaşmayı değerlendirmenin haricinde aşağıda belirtilmiş olan g&ouml;revleri de yerine getirirler:</p>
+[
+    {\"category\":\"<p style=\"margin: 10px;\">5846 Sayılı Fikir ve Sanat Eserleri Kanunu Gereği Yasal Uyarı;<\/p>
+<p style=\"margin: 10px;\">Bu internet sitesini ziyaret etmek ve kullanmak aşağıda yazılı t&uuml;m koşulların kabul edildiği anlamına gelir.<\/p>
+<p style=\"margin: 10px;\">Yıldız (Robotics Contest) Robocon etkinliği Yıldız Teknik &Uuml;niversitesi Robotik ve Otomasyon Kul&uuml;b&uuml; tarafından d&uuml;zenlenmektedir. Yıldız Robocon etkinliğinin ve etkinlik resm&icirc; internet sitesi www.yildizrobocon.org&#039;un t&uuml;m hakları saklıdır.<\/p>
+<p style=\"margin: 10px;\">İnternet sitesinde yer alan fotoğraf, resim, &ccedil;izim, kural, duyuru, yarışma sonucu gibi her t&uuml;rl&uuml; i&ccedil;eriğin telif hakları www.yildizrobocon.org ve Yıldız Robocon etkinliği d&uuml;zenleyicisi Yıldız Teknik &Uuml;niversitesi Robotik ve Otomasyon Kul&uuml;b&uuml;&#039;ne aittir. www.yildizrobocon.org internet sitesinde yer alan t&uuml;m yazılı, g&ouml;rsel materyallerin telif hakları 5846 sayılı Fikir ve Sanat Eserleri Kanunu tarafından korunmaktadır. Yıldız Teknik &Uuml;niversitesi Robotik ve Otomasyon Kul&uuml;b&uuml; Y&ouml;netim Kurulu&#039;ndan yazılı izin alınmadan www.yildizrobocon.org internet sitesinde yer alan hi&ccedil;bir yazılı, g&ouml;rsel materyalin kaynak g&ouml;sterilerek dahi tamamı veya bir kısmı kopyalanamaz, başka ortamda paylaşılamaz, yayınlanamaz.<\/p>
+<p style=\"margin: 10px;\">Yıldız Teknik &Uuml;niversitesi Robotik ve Otomasyon Kul&uuml;b&uuml; bu kuralların ihlalinden doğacak haklarını yasal yollardan arama hakkını saklı tutar.<\/p>
+<\/div>
+<h3>Yarışmanın Amacı<\/h3>
+<p>Bu kategoride yarışmacılar veya yarışmacı grupları &ouml;zel olarak tasarlanan Yıldız Savaşları Arenası i&ccedil;erisinde rakip robotu işlevsiz hale getirmeye &ccedil;alışacaklardır. Bunu ger&ccedil;ekleştirip arenadan sağ &ccedil;ıkan robot karşılaşmanın galibi sayılır.<\/p>
+<h3>Yarışma &Ouml;ncesi<\/h3>
+<p>Yarışma &ouml;ncesinde, mutlaka \"<a href=\"\/yarisma\/genel-kurallar\/\">Yıldız Robocon Genel Kuralları<\/a>\" okunmuş olunmalıdır. Kurallar itibariyle alınması gereken g&uuml;venlik tedbirleri yarışmacı sorumluluğu altındadır. Kategori ile ilgili merak edilenler i&ccedil;in&nbsp;&nbsp;eposta adresi &uuml;zerinden bizimle iletişime ge&ccedil;ebilirsiniz.<\/p>
+<h3>Yarışma Esnasında<\/h3>
+<p>Karşılaşmalar boyunca hi&ccedil;bir rakip, savaş robotlarının kumanda\/kontrol mekanizmalarını ortak kullanamazlar. Karşılaşmaların ardından yarışmacı ekiplerin robotlarının y&uuml;r&uuml;yen ve saldırı mekanizmalarında onarmanın haricinde herhangi bir par&ccedil;a değişimi yapmaları (saldırı mekanizması, hareket mekanizması, g&ouml;vdedeki değişimler gibi) s&ouml;z konusu olamaz. Elektronik aksamdaki m&uuml;dahaleler i&ccedil;in mutlaka hakemlere bilgi sunulmalıdır.<\/p>
+<p>\"Yıldız Robocon Genel Kuralları\"nda belirtilmiş olan \"G&uuml;venlik Standartları\"na uymak ve bir g&ouml;revlinin nezareti olmak kaydıyla, g&uuml;venli bir alanda ekipler robotlarını test edebilirler. Bu durum dikkate alınmadığı takdirde sorumluluk ilgili yarışmacı\/yarışmacı ekibe aittir.<\/p>
+<p>Yarışma g&uuml;nlerinde, arena dışında robotlar taşınırken dikkat edilmeli ve acele edilmemelidir. Yarışmacı\/yarışmacı ekipleri, ziyaret&ccedil;ilerimizin g&uuml;venliğini de tehlikeye atmamalıdır.&nbsp;<br \/>Karşılaşma başlarken yarışmacı kişi, kullanıcı kişi, arena i&ccedil;erisine yerleştirilmiş olan robotunun aktivasyonunu ger&ccedil;ekleştirdikten sonra arenadan &ccedil;ıkar ve ilgili k&ouml;şedeki kapı hakemler tarafından kilitlenir.<\/p>
+<h3>Hakemler Hakkında<\/h3>
+<p>Yıldız Savaşları Kategorisi hakemleri karşılaşmayı değerlendirmenin haricinde aşağıda belirtilmiş olan g&ouml;revleri de yerine getirirler:<\/p>
 <ol>
-<li>Karşılaşmayı başlatma.</li>
-<li>Karşılaşmayı durdurma.</li>
-<li>Karşılaşmanın bitişini ilan etme.</li>
-<li>Karşılaşmanın galibini duyurma.</li>
-<li>Zaman aşımını ilan etme.</li>
-<li>Kurallara uygunluğu denetleme.</li>
-</ol>
-<h3>B&uuml;y&uuml;k Patlama Hakkında</h3>
-<p>Yarışmacılarımızın g&ouml;stermiş oldukları &ccedil;abayı bir kez daha g&ouml;sterebilmeleri amacıyla Yıldız Savaşları Kategorisi&#039;ne &ouml;zel karşılaşmadır. Final karşılaşması &ouml;ncesinde isteyen yarışmacıların katılabileceği bir &ccedil;oklu karşılaşma yapılacaktır. Kategori hakemleri tarafından g&ouml;r&uuml;ş&uuml;lm&uuml;ş ve onayları alınmış yarışmacılarımızın robotlarının, arena i&ccedil;erisindeki diğer robotlara karşı olduğu &ccedil;oklu bir karşılaşma ile sağ &ccedil;ıkan tek bir robot &ouml;d&uuml;llendirilecektir. Final karşılaşması &ouml;ncesi bu karşılaşmanın ger&ccedil;ekleştirilebilmesi i&ccedil;in en az 3 (&uuml;&ccedil;) robot B&uuml;y&uuml;k Patlama&rsquo;ya katılmak istedikleri belirtilmiş olmalıdır.</p>
-<p>Yıldız Savaşları Kategorisi&#039;ne ait olan ikili m&uuml;cadelelerin t&uuml;m kural ve koşulları bu karşılaşma i&ccedil;inde ge&ccedil;erlidir. M&uuml;cadele s&uuml;resi yalnızca 5 (beş) dakikadır.</p>
-<h3>Arena</h3>
-<p>Yıldız Savaşları Arenası, 4.40m x 5.10m boyutlarında, 2m y&uuml;ksekliğinde ve yerden 5 cm y&uuml;ksekliktedir. Solid polikarbon levha ile kaplı olup mdf &uuml;zeri sac kaplama zemine sahiptir.</p>
-<h3>Teknik Raporlar</h3>
-<p>Yarışmadan en ge&ccedil; bir hafta &ouml;nce, <strong><em>16 Mart 2019 Saat 23.59</em></strong>&#039; a kadar robotların hareket ve saldırı mekanizmalarını i&ccedil;eren teknik raporların <a href="mailto:info@yturok.org">info@yildizrobocon.org</a> &nbsp;adresine e-posta atılması gerekmektedir. Raporlarını g&ouml;ndermeyen robotlar Yıldız Savaşları Kategorisi&#039;ne dahil edilmeyecektir.</p>
-<h3>A) Yarışma Genel Kuralları</h3>
+<li>Karşılaşmayı başlatma.<\/li>
+<li>Karşılaşmayı durdurma.<\/li>
+<li>Karşılaşmanın bitişini ilan etme.<\/li>
+<li>Karşılaşmanın galibini duyurma.<\/li>
+<li>Zaman aşımını ilan etme.<\/li>
+<li>Kurallara uygunluğu denetleme.<\/li>
+<\/ol>
+<h3>B&uuml;y&uuml;k Patlama Hakkında<\/h3>
+<p>Yarışmacılarımızın g&ouml;stermiş oldukları &ccedil;abayı bir kez daha g&ouml;sterebilmeleri amacıyla Yıldız Savaşları Kategorisi&#039;ne &ouml;zel karşılaşmadır. Final karşılaşması &ouml;ncesinde isteyen yarışmacıların katılabileceği bir &ccedil;oklu karşılaşma yapılacaktır. Kategori hakemleri tarafından g&ouml;r&uuml;ş&uuml;lm&uuml;ş ve onayları alınmış yarışmacılarımızın robotlarının, arena i&ccedil;erisindeki diğer robotlara karşı olduğu &ccedil;oklu bir karşılaşma ile sağ &ccedil;ıkan tek bir robot &ouml;d&uuml;llendirilecektir. Final karşılaşması &ouml;ncesi bu karşılaşmanın ger&ccedil;ekleştirilebilmesi i&ccedil;in en az 3 (&uuml;&ccedil;) robot B&uuml;y&uuml;k Patlama&rsquo;ya katılmak istedikleri belirtilmiş olmalıdır.<\/p>
+<p>Yıldız Savaşları Kategorisi&#039;ne ait olan ikili m&uuml;cadelelerin t&uuml;m kural ve koşulları bu karşılaşma i&ccedil;inde ge&ccedil;erlidir. M&uuml;cadele s&uuml;resi yalnızca 5 (beş) dakikadır.<\/p>
+<h3>Arena<\/h3>
+<p>Yıldız Savaşları Arenası,
+        4.40m x 5.10m boyutlarında,
+        2m y&uuml;ksekliğinde ve yerden 5 cm y&uuml;ksekliktedir. Solid polikarbon levha ile kaplı olup mdf &uuml;zeri sac kaplama zemine sahiptir.<\/p>
+<h3>Teknik Raporlar<\/h3>
+<p>Yarışmadan en ge&ccedil; bir hafta &ouml;nce, <strong><em>16 Mart 2019 Saat 23.59<\/em><\/strong>&#039; a kadar robotların hareket ve saldırı mekanizmalarını i&ccedil;eren teknik raporların <a href=\"mailto:info@yturok.org\">info@yildizrobocon.org<\/a> &nbsp;adresine e-posta atılması gerekmektedir. Raporlarını g&ouml;ndermeyen robotlar Yıldız Savaşları Kategorisi&#039;ne dahil edilmeyecektir.<\/p>
+<h3>A) Yarışma Genel Kuralları<\/h3>
 <ol>
-<li>Yarışma esnasında Yıldız Savaşları Kategorisi hakemlerine s&ouml;zl&uuml; itiraz yapılmamalıdır. Yarışmanın ardından itirazlar yazılı olarak "Kriz Masası"na yapılmalıdır.&nbsp;</li>
+<li>Yarışma esnasında Yıldız Savaşları Kategorisi hakemlerine s&ouml;zl&uuml; itiraz yapılmamalıdır. Yarışmanın ardından itirazlar yazılı olarak \"Kriz Masası\"na yapılmalıdır.&nbsp;<\/li>
 <li>T&uuml;m robotlar Yıldız Savaşları Arenası zemini ile temas halinde olacak şekilde tekerlek, palet vb. hareket sistemlerine sahip olmalıdırlar.
-<ol style="list-style-type: lower-alpha;">
-<li>Robotlar pn&ouml;matik ve hidrolik sistemler kullanarak zıplama/atlama gibi &ouml;zelliklere sahip olabilirler.</li>
-<li>U&ccedil;abilme &ouml;zelliğine sahip robotlar Yıldız Savaşları Kategorisi&#039;ne dahil olamazlar.</li>
-</ol>
-</li>
-<li>T&uuml;m robotlar uzaktan kumandalıdır. Kablo ile bağlı kontrol edilen veya otonom &ccedil;alışan robotlar Yıldız Savaşları Kategorisi&#039;ne dahil olamazlar.</li>
-<li>Robotların g&uuml;&ccedil; kaynakları(pilleri), bunların bağlantı kabloları ve bunun yanında pn&ouml;matik ve hidrolik sistemlerin tankları robotların g&ouml;vdesine g&ouml;m&uuml;l&uuml; ve dışarıdan etkilenmeyecek şekilde dizayn edilmelidir. Bu kurala uygun g&ouml;r&uuml;lmeyen robotlar gerekli &ouml;nlemler alınmadığı takdirde diskalifiye edileceklerdir.</li>
-<li>Karşılaşmalar tek round ve ikili m&uuml;sabaka olacak şekilde ger&ccedil;ekleşecektir. Her round yalnızca 3 dakikadan oluşmaktadır. Katılımcı sayısına g&ouml;re yarışmanın tek round ikili m&uuml;sabaka şeklinden turnuva usul&uuml;ne g&ouml;re yapılması hakkını YT&Uuml; ROK elinde tutar.</li>
-<li>Karşılaşma başlamadan &ouml;nce yarışmacı ekipler hakemlerle birlikte robotlarının &ccedil;alışmasını kontrol edeceklerdir. Teknik bir aksaklık s&ouml;z konusu olduğunda taraflar 8 dakikalık teknik mola haklarını kullanabilirler. Karşılaşma boyunca teknik mola hakkı verilmeyecektir.<br /> <br />
-<ol style="list-style-type: lower-alpha;">
-<li>Teknik mola hakkını kullanıp, vaktini dolduran robot, Yıldız Savaşları Arenası&#039;na bırakılır ve herhangi bir m&uuml;dahale hakkını kaybeder. M&uuml;dahale olduğu durumda, ilgili ekip diskalifiye edilir.</li>
-<li>Yarışmacılar ilk turda teknik mola hakkına sahip değildir. İkinci tur itibari ile tanınan teknik mola hakkını kullanma durumunda, bir tarafın teknik mola aldığı durumda, eğer diğer taraf teknik mola hakkını kullanmak isterse, bu durumda daha &ouml;nce teknik mola hakkını kullanmaya başlayan ekip s&uuml;releri bittiğinde s&uuml;relerini tutan hakem ile birlikte robotlarını piste koyar ve robotlarına herhangi bir m&uuml;dahale de bulunamaz. B&ouml;yle bir durumda, durumun vaziyetini uygun g&ouml;rd&uuml;kleri takdirde hakemler diğer karşılaşmayı &ccedil;ağırabilir ve s&ouml;z konusu karşılaşmanın teknik mola haklarını kullanan robotların, 8 dakikalık teknik mola s&uuml;releri bittiğinde, ilgili hakemler robotlara m&uuml;dahaleye izin vermeyeceklerdir. M&uuml;dahale olduğu durumda ise, ilgili ekip veya ekipler diskalifiye edilecektir.</li>
-</ol>
-</li>
-<li>Yarışma başladıktan sonra&nbsp;yarışacak t&uuml;m robotlar hazır olmalıdırlar. Anons ge&ccedil;ildikten sonra beklenen ekibin robotlarıyla yarışma alanına gelmeleri i&ccedil;in yalnızca 2 dakikaları vardır. Bu s&uuml;reyi aşan ve robotlarını Yıldız Savaşları Arenası i&ccedil;erisinde hazır bulundurmayan ekipler hakemler tarafından elenecek ve rakipleri karşılaşmanın galibi sayılacaktır.<br /> <br />
-<ol style="list-style-type: lower-alpha;">
-<li>İki dakika sonunda, eğer anonsu yapılmış robotun ekibi robotlarını, Yıldız Robocon Yıldız Savaşları Arenası i&ccedil;inde hazır bulundurmadıkları takdirde eleneceklerdir. Bu iki dakikalık s&uuml;reye arenanın i&ccedil;inde bulunduğu kongre salonunda olmak dahil değildir.</li>
-</ol>
-</li>
-<li>Karşılaşma &ouml;ncesi robotlar hakemler tarafından belirlenen yarışma kriterlerine uygunlukları a&ccedil;ısından kontrol edileceklerdir. Kriterlere uymayan robotlar hakemler tarafından diskalifiye edilecektir.</li>
-<li>Karşılaşmanın ilk 30 saniyesi (30. saniye dahil) i&ccedil;inde hareket etmeyen robot Yıldız Savaşları Kategorisi hakemleri tarafından diskalifiye edilecek ve s&ouml;z konusu robotun rakibi galip sayılacaktır.</li>
-<li>Yarışmacı ekipler, en fazla iki kişiyi arenanın yer aldığı sahne &uuml;zerinde bulunmak i&ccedil;in g&ouml;revlendirebilirler. Robotu aynı anda sadece bir kişi kontrol edebilir.</li>
-<li>Karşılaşma sonucunda herhangi bir robot işlevsiz hale gelmediği takdirde, s&ouml;z konusu karşılaşma sonucu tur sonunda hakemlerin verdiği karara g&ouml;re a&ccedil;ıklanacaktır.</li>
-<li>Karşılaşmanın başlamasının ardından ekipler robotlarına ve piste hi&ccedil;bir m&uuml;dahalede bulunamazlar. Herhangi bir m&uuml;dahaleye &ccedil;alışılması s&ouml;z konusu takdirde yarışmacı takım Yıldız Savaşları Kategorisi hakemleri tarafından diskalifiye edilecektir.<br /> <br />
-<ol style="list-style-type: lower-alpha;">
-<li>Yıldız Robocon Yıldız Savaşları Kategorisi hakemlerinin &ccedil;alışmasını engelleyecek her t&uuml;rl&uuml; s&ouml;zl&uuml; vb m&uuml;dahale diskalifiye sebebidir. Bu tarz davranışlar sergileyen ekipler diskalifiye edilir.</li>
-</ol>
-</li>
-<li>T&uuml;m katılımcılar bu sayfada belirtilen t&uuml;m kurallara ve yayınlanan "<a href="/yarisma/genel-kurallar/">Yarışma Genel Kuralları</a>"na uymak zorundadırlar. Aksi yaşanan durumlarda yarışmadan men edilme durumu s&ouml;z konusudur.</li>
-</ol>
-<h3>B)&nbsp;G&uuml;venlik</h3>
+<ol style=\"list-style-type: lower-alpha;\">
+<li>Robotlar pn&ouml;matik ve hidrolik sistemler kullanarak zıplama\/atlama gibi &ouml;zelliklere sahip olabilirler.<\/li>
+<li>U&ccedil;abilme &ouml;zelliğine sahip robotlar Yıldız Savaşları Kategorisi&#039;ne dahil olamazlar.<\/li>
+<\/ol>
+<\/li>
+<li>T&uuml;m robotlar uzaktan kumandalıdır. Kablo ile bağlı kontrol edilen veya otonom &ccedil;alışan robotlar Yıldız Savaşları Kategorisi&#039;ne dahil olamazlar.<\/li>
+<li>Robotların g&uuml;&ccedil; kaynakları(pilleri), bunların bağlantı kabloları ve bunun yanında pn&ouml;matik ve hidrolik sistemlerin tankları robotların g&ouml;vdesine g&ouml;m&uuml;l&uuml; ve dışarıdan etkilenmeyecek şekilde dizayn edilmelidir. Bu kurala uygun g&ouml;r&uuml;lmeyen robotlar gerekli &ouml;nlemler alınmadığı takdirde diskalifiye edileceklerdir.<\/li>
+<li>Karşılaşmalar tek round ve ikili m&uuml;sabaka olacak şekilde ger&ccedil;ekleşecektir. Her round yalnızca 3 dakikadan oluşmaktadır. Katılımcı sayısına g&ouml;re yarışmanın tek round ikili m&uuml;sabaka şeklinden turnuva usul&uuml;ne g&ouml;re yapılması hakkını YT&Uuml; ROK elinde tutar.<\/li>
+<li>Karşılaşma başlamadan &ouml;nce yarışmacı ekipler hakemlerle birlikte robotlarının &ccedil;alışmasını kontrol edeceklerdir. Teknik bir aksaklık s&ouml;z konusu olduğunda taraflar 8 dakikalık teknik mola haklarını kullanabilirler. Karşılaşma boyunca teknik mola hakkı verilmeyecektir.<br \/> <br \/>
+<ol style=\"list-style-type: lower-alpha;\">
+<li>Teknik mola hakkını kullanıp, vaktini dolduran robot, Yıldız Savaşları Arenası&#039;na bırakılır ve herhangi bir m&uuml;dahale hakkını kaybeder. M&uuml;dahale olduğu durumda, ilgili ekip diskalifiye edilir.<\/li>
+<li>Yarışmacılar ilk turda teknik mola hakkına sahip değildir. İkinci tur itibari ile tanınan teknik mola hakkını kullanma durumunda, bir tarafın teknik mola aldığı durumda, eğer diğer taraf teknik mola hakkını kullanmak isterse, bu durumda daha &ouml;nce teknik mola hakkını kullanmaya başlayan ekip s&uuml;releri bittiğinde s&uuml;relerini tutan hakem ile birlikte robotlarını piste koyar ve robotlarına herhangi bir m&uuml;dahale de bulunamaz. B&ouml;yle bir durumda, durumun vaziyetini uygun g&ouml;rd&uuml;kleri takdirde hakemler diğer karşılaşmayı &ccedil;ağırabilir ve s&ouml;z konusu karşılaşmanın teknik mola haklarını kullanan robotların,
+        8 dakikalık teknik mola s&uuml;releri bittiğinde, ilgili hakemler robotlara m&uuml;dahaleye izin vermeyeceklerdir. M&uuml;dahale olduğu durumda ise, ilgili ekip veya ekipler diskalifiye edilecektir.<\/li>
+<\/ol>
+<\/li>
+<li>Yarışma başladıktan sonra&nbsp;yarışacak t&uuml;m robotlar hazır olmalıdırlar. Anons ge&ccedil;ildikten sonra beklenen ekibin robotlarıyla yarışma alanına gelmeleri i&ccedil;in yalnızca 2 dakikaları vardır. Bu s&uuml;reyi aşan ve robotlarını Yıldız Savaşları Arenası i&ccedil;erisinde hazır bulundurmayan ekipler hakemler tarafından elenecek ve rakipleri karşılaşmanın galibi sayılacaktır.<br \/> <br \/>
+<ol style=\"list-style-type: lower-alpha;\">
+<li>İki dakika sonunda, eğer anonsu yapılmış robotun ekibi robotlarını, Yıldız Robocon Yıldız Savaşları Arenası i&ccedil;inde hazır bulundurmadıkları takdirde eleneceklerdir. Bu iki dakikalık s&uuml;reye arenanın i&ccedil;inde bulunduğu kongre salonunda olmak dahil değildir.<\/li>
+<\/ol>
+<\/li>
+<li>Karşılaşma &ouml;ncesi robotlar hakemler tarafından belirlenen yarışma kriterlerine uygunlukları a&ccedil;ısından kontrol edileceklerdir. Kriterlere uymayan robotlar hakemler tarafından diskalifiye edilecektir.<\/li>
+<li>Karşılaşmanın ilk 30 saniyesi (30. saniye dahil) i&ccedil;inde hareket etmeyen robot Yıldız Savaşları Kategorisi hakemleri tarafından diskalifiye edilecek ve s&ouml;z konusu robotun rakibi galip sayılacaktır.<\/li>
+<li>Yarışmacı ekipler, en fazla iki kişiyi arenanın yer aldığı sahne &uuml;zerinde bulunmak i&ccedil;in g&ouml;revlendirebilirler. Robotu aynı anda sadece bir kişi kontrol edebilir.<\/li>
+<li>Karşılaşma sonucunda herhangi bir robot işlevsiz hale gelmediği takdirde, s&ouml;z konusu karşılaşma sonucu tur sonunda hakemlerin verdiği karara g&ouml;re a&ccedil;ıklanacaktır.<\/li>
+<li>Karşılaşmanın başlamasının ardından ekipler robotlarına ve piste hi&ccedil;bir m&uuml;dahalede bulunamazlar. Herhangi bir m&uuml;dahaleye &ccedil;alışılması s&ouml;z konusu takdirde yarışmacı takım Yıldız Savaşları Kategorisi hakemleri tarafından diskalifiye edilecektir.<br \/> <br \/>
+<ol style=\"list-style-type: lower-alpha;\">
+<li>Yıldız Robocon Yıldız Savaşları Kategorisi hakemlerinin &ccedil;alışmasını engelleyecek her t&uuml;rl&uuml; s&ouml;zl&uuml; vb m&uuml;dahale diskalifiye sebebidir. Bu tarz davranışlar sergileyen ekipler diskalifiye edilir.<\/li>
+<\/ol>
+<\/li>
+<li>T&uuml;m katılımcılar bu sayfada belirtilen t&uuml;m kurallara ve yayınlanan \"<a href=\"\/yarisma\/genel-kurallar\/\">Yarışma Genel Kuralları<\/a>\"na uymak zorundadırlar. Aksi yaşanan durumlarda yarışmadan men edilme durumu s&ouml;z konusudur.<\/li>
+<\/ol>
+<h3>B)&nbsp;G&uuml;venlik<\/h3>
 <ol>
-<li>Robotlarda sıvı/yanıcı/patlayıcı yakıt (LPG, CNG, mazot, benzin, i&ccedil;ten yanmalı motor gibi) kullanılamaz.</li>
-<li>T&uuml;m robotlar kumandaları &uuml;zerinden acil durumlarda g&uuml;c&uuml; kesebilmelidirler. Yapılacak olan kontroller dahilinde kumandadan g&uuml;c&uuml; kesemeyen robotlar (fail-safe) kesinlikle yarışamazlar. Buna ek olarak, robotlar kendi &uuml;zerlerinde de bir acil durum g&uuml;&ccedil; kesme butonu bulundurmak zorundadırlar. Bu şartları sağlamayan robotlar Yıldız Savaşları Kategorisi hakemleri tarafından diskalifiye edilecektir.<br /> <br />
-<ol style="list-style-type: lower-alpha;">
-<li>Karşılaşma esnasında oluşabilecek acil durumlarda yarışmacı ekipler, hakemlerin komutuyla g&uuml;c&uuml; kesmek zorundadırlar.</li>
-</ol>
-</li>
-<li>Hakemler herhangi bir sebepten dolayı g&uuml;venli bulmadıkları robotları hakem genel koordinat&ouml;rl&uuml;ğ&uuml; onayı ile diskalifiye etme hakkına sahiptir. S&ouml;z konusu sebep a&ccedil;ıklanmak zorundadır.</li>
-<li>Robotların power(A&ccedil;-Kapa) butonları saldırı mekanizmalarından uzak, g&uuml;venli bir şekilde ulaşılabilir olmalıdır.&nbsp;</li>
-<li>Pn&ouml;matik veya hidrolik sistem kullanan robotlarda yarışmacı ekipler basın&ccedil; tanklarını sabitlemek zorundadırlar.&nbsp;</li>
-<li>Yarışmacı ekiplerin saldırı mekanizmaları &uuml;zerinde, robotların &uuml;zerinde yapılabilecek bir &ccedil;alışma esnasında oluşabilecek herhangi bir olumsuzluğa karşı gereken g&uuml;venlik &ouml;nlemlerini almış olmaları gerekmektedir. Herhangi bir olumsuzluğun t&uuml;m sorumluluğu yarışmacılara aittir.</li>
-<li>Yarışmacı ekiplerin, yarışma başlayana kadar yapacakları &ccedil;alışmalarda yanlarında koruma g&ouml;zl&uuml;ğ&uuml;, eldiven, &ouml;nl&uuml;k vb (Bkz: "Yıldız Robocon &raquo;&nbsp;<a href="/yarisma/genel-kurallar/#GuvenlikStandartlari">G&uuml;venlik</a>") tedbir elemanlarını bulundurmalıdırlar. Fuaye alanında bu konu ile alakalı olarak denetimler yapılacaktır. Bu konuda hassasiyet g&ouml;stermeyen yarışmacı ekiplerin yaşayacağı herhangi bir kazadan YT&Uuml; Robotik ve Otomasyon Kul&uuml;b&uuml; sorumlu değildir.&nbsp;</li>
-</ol>
-<h3>C) Ağırlık ve Boyutlar</h3>
+<li>Robotlarda sıvı\/yanıcı\/patlayıcı yakıt (LPG, CNG, mazot, benzin, i&ccedil;ten yanmalı motor gibi) kullanılamaz.<\/li>
+<li>T&uuml;m robotlar kumandaları &uuml;zerinden acil durumlarda g&uuml;c&uuml; kesebilmelidirler. Yapılacak olan kontroller dahilinde kumandadan g&uuml;c&uuml; kesemeyen robotlar (fail-safe) kesinlikle yarışamazlar. Buna ek olarak, robotlar kendi &uuml;zerlerinde de bir acil durum g&uuml;&ccedil; kesme butonu bulundurmak zorundadırlar. Bu şartları sağlamayan robotlar Yıldız Savaşları Kategorisi hakemleri tarafından diskalifiye edilecektir.<br \/> <br \/>
+<ol style=\"list-style-type: lower-alpha;\">
+<li>Karşılaşma esnasında oluşabilecek acil durumlarda yarışmacı ekipler, hakemlerin komutuyla g&uuml;c&uuml; kesmek zorundadırlar.<\/li>
+<\/ol>
+<\/li>
+<li>Hakemler herhangi bir sebepten dolayı g&uuml;venli bulmadıkları robotları hakem genel koordinat&ouml;rl&uuml;ğ&uuml; onayı ile diskalifiye etme hakkına sahiptir. S&ouml;z konusu sebep a&ccedil;ıklanmak zorundadır.<\/li>
+<li>Robotların power(A&ccedil;-Kapa) butonları saldırı mekanizmalarından uzak, g&uuml;venli bir şekilde ulaşılabilir olmalıdır.&nbsp;<\/li>
+<li>Pn&ouml;matik veya hidrolik sistem kullanan robotlarda yarışmacı ekipler basın&ccedil; tanklarını sabitlemek zorundadırlar.&nbsp;<\/li>
+<li>Yarışmacı ekiplerin saldırı mekanizmaları &uuml;zerinde, robotların &uuml;zerinde yapılabilecek bir &ccedil;alışma esnasında oluşabilecek herhangi bir olumsuzluğa karşı gereken g&uuml;venlik &ouml;nlemlerini almış olmaları gerekmektedir. Herhangi bir olumsuzluğun t&uuml;m sorumluluğu yarışmacılara aittir.<\/li>
+<li>Yarışmacı ekiplerin, yarışma başlayana kadar yapacakları &ccedil;alışmalarda yanlarında koruma g&ouml;zl&uuml;ğ&uuml;, eldiven, &ouml;nl&uuml;k vb (Bkz: \"Yıldız Robocon &raquo;&nbsp;<a href=\"\/yarisma\/genel-kurallar\/#GuvenlikStandartlari\">G&uuml;venlik<\/a>\") tedbir elemanlarını bulundurmalıdırlar. Fuaye alanında bu konu ile alakalı olarak denetimler yapılacaktır. Bu konuda hassasiyet g&ouml;stermeyen yarışmacı ekiplerin yaşayacağı herhangi bir kazadan YT&Uuml; Robotik ve Otomasyon Kul&uuml;b&uuml; sorumlu değildir.&nbsp;<\/li>
+<\/ol>
+<h3>C) Ağırlık ve Boyutlar<\/h3>
 <ol>
-<li>Yarışmacı ekipler robotlarını Yıldız Savaşları Arenası boyutlarına uygun dizayn etmelidirler.</li>
-<li>Robotların toplam ağırlıkları sarf malzemeleri, mekanik ve elektronik kısımlar dahil olmak &uuml;zere 35 kg + %1= 35.350 kg hata payı ile sınırlandırılmış olup bu sınırı aşan robotlar kontroller sonucunda Yıldız Savaşları Kategorisi hakemleri tarafından yarışmadan diskalifiye edilecektir.</li>
-</ol>
-<h3>D) İtici G&uuml;&ccedil; Sistemleri ve Saldırı Mekanizmaları</h3>
+<li>Yarışmacı ekipler robotlarını Yıldız Savaşları Arenası boyutlarına uygun dizayn etmelidirler.<\/li>
+<li>Robotların toplam ağırlıkları sarf malzemeleri, mekanik ve elektronik kısımlar dahil olmak &uuml;zere 35 kg + %1= 35.350 kg hata payı ile sınırlandırılmış olup bu sınırı aşan robotlar kontroller sonucunda Yıldız Savaşları Kategorisi hakemleri tarafından yarışmadan diskalifiye edilecektir.<\/li>
+<\/ol>
+<h3>D) İtici G&uuml;&ccedil; Sistemleri ve Saldırı Mekanizmaları<\/h3>
 <ol>
-<li>İtici g&uuml;&ccedil; sistemlerinde ve saldırı mekanizmalarında B.1 de belirtiği &uuml;zere sıvı/patlayıcı/yanıcı yakıt kullanılması kesinlikle yasaktır. Yarışmacılar robotlarında pn&ouml;matik, hidrolik sistemler kullanabilirler.</li>
-<li>Lazer, jammer (sinyal bozucu/karıştırıcı), par&ccedil;a fırlatıcı, aşındırıcı ve korozyona sebep olan maddeler (asit vb) kullanmak yasaktır.&nbsp;</li>
-<li>Parlayıcı madde &ccedil;ıkaran (kıvılcım vb) ve ateş &ccedil;ıkaran mekanizmaya sahip robotların ayrıntılı bir şekilde raporlarında kullandıkları maddeleri bildirmek zorundadırlar.</li>
-<li>Silah sistemleri Yıldız Robocon Yıldız Savaşları Arenası&#039;na herhangi bir zarar vermeyecek şekilde d&uuml;ş&uuml;n&uuml;lmelidir. Bu durumla birlikte B, C ve D maddelerinde belirtilen kurallara uymayan robotlar yarışmaya alınmazlar.</li>
-</ol>
-<h3>E) Uzaktan Kumanda Sistemleri</h3>
+<li>İtici g&uuml;&ccedil; sistemlerinde ve saldırı mekanizmalarında B.1 de belirtiği &uuml;zere sıvı\/patlayıcı\/yanıcı yakıt kullanılması kesinlikle yasaktır. Yarışmacılar robotlarında pn&ouml;matik, hidrolik sistemler kullanabilirler.<\/li>
+<li>Lazer, jammer (sinyal bozucu\/karıştırıcı), par&ccedil;a fırlatıcı, aşındırıcı ve korozyona sebep olan maddeler (asit vb) kullanmak yasaktır.&nbsp;<\/li>
+<li>Parlayıcı madde &ccedil;ıkaran (kıvılcım vb) ve ateş &ccedil;ıkaran mekanizmaya sahip robotların ayrıntılı bir şekilde raporlarında kullandıkları maddeleri bildirmek zorundadırlar.<\/li>
+<li>Silah sistemleri Yıldız Robocon Yıldız Savaşları Arenası&#039;na herhangi bir zarar vermeyecek şekilde d&uuml;ş&uuml;n&uuml;lmelidir. Bu durumla birlikte B, C ve D maddelerinde belirtilen kurallara uymayan robotlar yarışmaya alınmazlar.<\/li>
+<\/ol>
+<h3>E) Uzaktan Kumanda Sistemleri<\/h3>
 <ol>
-<li>Robotlar bluetooth kullanılarak kontrol edilebilirler.</li>
-<li>Uzaktan kumanda kullanan ekiplerin kullandıkları kumandaların frekansları 433 MHz&#039; ten y&uuml;ksek olmak zorundadır. 433 MHz bandında olması durumunda en az 8 bitlik şifreleme zorunludur. Frekanslar yarışma &ouml;ncesinde Yıldız Savaşları Kategorisi Hakemlerine belirtilmelidir.</li>
-<li>4 GHz frekansa sahip kumanda kullanan yarışmacılar bunu belirtmeli ve s&ouml;z konusu yarışmacı ekiplerin g&ouml;r&uuml;şt&uuml;r&uuml;l&uuml;p gerekli protokol ayarlamalarını yapmalarını gerekmektedir.</li>
-</ol>
-<p>&nbsp;<em>Teknik Rapor Taslağını bu adresten indirebilirsiniz:&nbsp;<a title="Rapor Taslağı" href="http://yturok.com/storage/doc/YS_RaporTaslagi.docx">Rapor Taslağı</a></em></p>
-</body>
-</html>}]
+<li>Robotlar bluetooth kullanılarak kontrol edilebilirler.<\/li>
+<li>Uzaktan kumanda kullanan ekiplerin kullandıkları kumandaların frekansları 433 MHz&#039; ten y&uuml;ksek olmak zorundadır. 433 MHz bandında olması durumunda en az 8 bitlik şifreleme zorunludur. Frekanslar yarışma &ouml;ncesinde Yıldız Savaşları Kategorisi Hakemlerine belirtilmelidir.<\/li>
+<li>4 GHz frekansa sahip kumanda kullanan yarışmacılar bunu belirtmeli ve s&ouml;z konusu yarışmacı ekiplerin g&ouml;r&uuml;şt&uuml;r&uuml;l&uuml;p gerekli protokol ayarlamalarını yapmalarını gerekmektedir.<\/li>
+<\/ol>
+<p>&nbsp;<em>Teknik Rapor Taslağını bu adresten indirebilirsiniz:&nbsp;<a title=\"Rapor Taslağı\" href=\"http:\/\/yturok.com\/storage\/doc\/YS_RaporTaslagi.docx\">Rapor Taslağı<\/a><\/em><\/p>\"}]
