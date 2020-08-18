@@ -1,0 +1,203 @@
+@import url('https://fonts.googleapis.com/css2?family=Libre+Baskerville&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Maven+Pro&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lora:ital,wght@1,500&display=swap');
+html{
+  
+    
+    font: bolder!important;
+}
+body{
+  /* font-family: 'Homemade Apple', cursive!important; */
+  font-family: 'Lora',serif!important;
+  background-color: honeydew;
+}
+
+.call-us{
+  color: black  ;
+}
+.call-us:hover{
+  color: green;
+  
+}
+
+.logo{
+    /* margin-left: 60px; */
+    text-align:center;
+}
+
+.intro-img{
+    
+    align-items: center;
+    max-width: 100%;
+    display: grid;
+}
+
+.centered {
+    font-size: 100px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    /* transform: translate(-50%, -50%); */
+  }
+.navbar {
+  border-radius: 15px; 
+  margin-top: 100px;
+    text-align:center!important;
+    overflow: hidden;
+    background-color: #471f24c2;
+    /* opacity: 80%; */
+    /* margin-bottom: 10px; */
+    overflow: auto!important;
+    display: inline-flex!important;
+
+    
+  }
+  
+  .navbar a {
+    float: left;
+    font-size: 16px;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  .dropdown {
+    float: left;
+    overflow: hidden;
+  }
+  .sponsors-img{
+      float: left;
+  }
+  .dropdown .dropbtn {
+    font-size: 16px;  
+    border: none;
+    outline: none;
+    color: white;
+    padding: 14px 16px;
+    background-color: inherit;
+    font-family: inherit;
+    margin: 0;
+  }
+  
+  .navbar a:hover, .dropdown:hover .dropbtn {
+    background-color: #e9185d;
+  }
+  
+  .dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f9f9f9;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+  }
+  
+  .dropdown-content a {
+    float: none;
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+    text-align: left;
+  }
+  
+  .dropdown-content a:hover {
+    background-color: #ddd;
+  }
+  
+  .dropdown:hover .dropdown-content {
+    display: block;
+  }
+
+  .intro-img{
+    opacity: 0.5!important;
+  }
+  .recent{
+    margin: auto;
+    text-align: center;
+  }
+  .urun {
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2)!important;
+    transition: 0.3s;
+    width: 250px;
+    float: left;
+    margin: 20px;
+  }
+  
+  .urun:hover {
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2)!important;
+  }
+  
+  .container {
+    /* padding: 2px 16px; */
+  }
+.ui-btn-icon-left:after{
+    width: 40px!important;
+    height: 40px!important;
+    background-color: green!important;
+}
+
+
+  .fa {
+    padding: 20px;
+    /* margin-left: 10px!important; */
+    font-size: 40px!important;
+    width: 10px;
+    text-align: center;
+    text-decoration: none;
+    /* margin: 4px 2px; */
+    text-align: center!important;
+    border-radius: 500%;
+    background: transparent!important;
+}
+
+.fa:hover {
+    opacity: 0.7;
+    text-decoration: none;
+}
+
+.fa-facebook {
+    background: #3B5998;
+    color: black;
+}
+
+.fa-facebook:hover {
+    background: #3B5998;
+    color: white;
+}
+
+.fa-twitter {
+    background: #55ACEE;
+    color: black;
+}
+
+.fa-twitter:hover {
+    color: #1DA1F2;
+}
+
+
+.fa-linkedin {
+    background: #2867B2;
+    color: black;
+}
+
+.fa-linkedin:hover {
+    color: #007bb5;
+}
+.fa-facebook:hover{
+    color:#3b5998;
+}
+.fa-youtube {
+    background: #bb0000;
+    color: white;
+}
+
+.fa-instagram {
+    background: #125688;
+    color: black;
+}
+
+.fa-instagram:hover {
+    color: #E1306C;
+}

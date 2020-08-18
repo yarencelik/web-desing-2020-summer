@@ -1,0 +1,9 @@
+header{
+    width: fit-content;
+    background: url("./img/_DSC0333.JPG"); 
+    no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
